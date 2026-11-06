@@ -21,12 +21,15 @@ An investor wants to compare five of India's largest companies: which delivered 
 5. Measured **correlation** between stocks to assess diversification
 
 ## 💡 Key Insights
-1. **Best return:** [STOCK] grew [X]% per year
-2. **Best risk-adjusted return:** [STOCK] had the highest Sharpe ratio ([X])
-3. **Riskiest stock:** [STOCK] had the highest volatility ([X]%)
-4. **Deepest fall:** [STOCK] dropped [X]% from its peak at the worst point
-5. **Beat the Nifty 50:** [STOCKS] outperformed the index ([X]% per year)
-6. **Best diversification pair:** [STOCK] + [STOCK] (correlation [X])
+1. **Best return:** ICICI Bank grew **16.2% per year**
+2. **Best risk-adjusted return:** ICICI Bank had the highest Sharpe ratio (**0.49**)
+3. **Riskiest stock:** Infosys had the highest volatility (**26.3%**)
+4. **Deepest fall:** TCS dropped **53.4%** from its peak at the worst point
+5. **Beat the Nifty 50:** ICICI Bank was the **only stock** to outperform the index (6.9% per year)
+6. **Best diversification pair:** ICICI Bank + TCS (correlation **0.23**)
+
+## 📝 Conclusion
+ICICI Bank was the clear winner, combining the highest return with the best risk-adjusted performance. The IT stocks (Infosys and TCS) carried more risk without beating the index. Pairing a bank stock with an IT stock offers the strongest diversification, because they move largely independently of each other.
 
 ## 🧰 Tools
 Python · pandas · NumPy · matplotlib · seaborn · yfinance · Google Colab
